@@ -6,7 +6,7 @@ Deep Reinforcement Learning algorithms based on Pytorch.
 
 <h2>To do</h2>
 
-+ [ ] Q-Learning
++ [x] [Q-Learning](https://github.com/ysbsb/deeprl-pytorch/tree/master/q-learning)
 + [ ] Deep Q Learning (DQN)
 + [ ] REINFORCE
 + [ ] Deep Deterministic Policy Gradients (DDPG)
